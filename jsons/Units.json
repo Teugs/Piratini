@@ -1,17 +1,17 @@
 [
 	{
-		"name": "Phasers",
+		"name": "Folcerines",
 		"unitType": "Ranged",
-		"uniqueTo": "Aliens",
+		"uniqueTo": "Piratini",
 		"replaces": "Machine Gun",
-		"movement": 2,
-		"strength": 90,
-		"rangedStrength": 36,
-		"range": 2,
-		"cost": 500,
+		"movement": 3,
+		"strength": 110,
+		"rangedStrength": 35,
+		"range": 1,
+		"cost": 550,
 		"requiredTech": "Ballistics",
-		"requiredResource": "Uranium",
-		"promotions": ["Logistics","Accuracy I"],
-		"attackSound": "phasers"
+		"requiredResource": "",
+		"promotions": ["Logistics","Accuracy I", "Canister shoot" ],
+		"attackSound": "Machine gun"
 	}
 ]
