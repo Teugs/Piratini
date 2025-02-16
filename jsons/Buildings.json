@@ -1,16 +1,16 @@
 [
 	{
-		"name": "Holodeck",
-		"replaces": "Circus Maximus",
-		"uniqueTo": "Aliens",
-		"cost": 480,
-		"happiness": 12,
-		"culture": 12,
-		"science": 12,
-		"maintenance": 96,
+		"name": "White Fortress",
+		"replaces": "National Monument",
+		"uniqueTo": "Piratini",
+		"cost": 280,
+		"happiness": 15,
+		"culture": 4,
+		"science": 0,
+		"maintenance": 1,
 		"isNationalWonder": true,
 		"requiredBuildingInAllCities": "Colosseum",
-		"requiredTech": "Horseback Riding"
+		"requiredTech": "Ceramics"
 	},
 	{
 		"name": "Breeders",
