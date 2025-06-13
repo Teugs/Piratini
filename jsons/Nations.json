@@ -6,8 +6,8 @@
 		"startBias": ["Plains"],
 		"preferredVictoryType": "Scientific",
 		
-		"startIntroPart1": "Hello, I hope we have good relations",
-		"startIntroPart2": "The Pirish are a decided and Brave, they dont fear any enemy, after his formation on 1835,the pirish economy had grew rapidly, and with the constitutionaly Diarchy, they prevail after all wars, and with the lead of Hermann Kirchner, they will stand until the last man, Piece of Land, and oil drop, for the banner, GLORIENS FUR DEIN PIRSKLAND",
+		"startIntroPart1": "Hello, Wossefenshaft!",
+		"startIntroPart2": "The Pirish are a decided and Brave, they dont fear any enemy, after his formation on 1731,the pirish economy had grew rapidly, and with the constitutionaly Diarchy, they prevail after all wars, and with the lead of Hermann Kirchner, they will stand until the last man, Piece of Land, and oil drop, for the banner, GLORIENS FUR DEIN PIRSKLAND",
 		
 		"declaringWar": "You must pay for your sins! ",
 		"attacked": "So you wanted to play the War game, fine, It's my turn",
@@ -25,12 +25,12 @@
 		"afterPeace": "Fine, we hope this peace last.",
 		"tradeRequest": "Hello!, i have a proposal for you! .",
 
-		"outerColor": [11,13,130],
-		"innerColor": [0,3,116],
+		"outerColor": [16,44,84],
+		"innerColor": [5,16,33],
 		"unique": "Flag_Loyalty",
 		"cities": ["Duseldom","Mintz","Mont Planc","Tjaporai","Dalvidia","Wuttburg","San pedro","Kobena","Gutama",
 			"Yamato","Saijan","Moyul","Aran","Pazdril","Karib","Aguntern","Fidheraim","Cosket","Wirklich",
 			"Pomerten","Landenten","Streitner","Hagtund","Unter","Laitching","Santa victoria ","Orstod","Hagsbenn","Rinnlinch",
-			"Luther","Fort Borinskava ","Azkazan","Nipper","Folkeken","Trinten"]
+			"Luther","Fort Borinskava ","Azkazan","Nipper","Folkeken","Trinten","Sizachen","Schalakta","Iperaim"]
 	}
 ]
